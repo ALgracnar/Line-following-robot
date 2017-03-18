@@ -1,0 +1,18 @@
+EESchema-LIBRARY Version 2.3
+#encoding utf-8
+#
+# switch-RESCUE-robot_05_03_2017
+#
+DEF switch-RESCUE-robot_05_03_2017 SW 0 40 Y Y 1 F N
+F0 "SW" 500 400 60 H V C CNN
+F1 "switch-RESCUE-robot_05_03_2017" 500 100 60 H V C CNN
+F2 "" 0 0 60 H I C CNN
+F3 "" 0 0 60 H I C CNN
+DRAW
+P 2 0 1 0 400 200 600 300 N
+X ~ 1 200 200 200 R 50 50 1 1 I
+X ~ 2 800 200 200 L 50 50 1 1 I
+ENDDRAW
+ENDDEF
+#
+#End Library

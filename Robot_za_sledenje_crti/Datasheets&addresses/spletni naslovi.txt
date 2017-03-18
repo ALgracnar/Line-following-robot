@@ -1,0 +1,27 @@
+
+BSV52 NPN:
+http://si.farnell.com/nxp/bsv52/transistor-npn-sot-23/dp/1081314RL
+
+qre1113:
+http://si.farnell.com/fairchild-semiconductor/qre1113gr/opto-switch-reflective/dp/1471020
+
+L293DNE:
+http://si.farnell.com/texas-instruments/l293dne/ic-driver-peripheral-dual-36v/dp/1470423
+
+L293NEE4:
+http://si.farnell.com/texas-instruments/l293nee4/ic-relay-driver-quad-dip16-293/dp/1210964
+
+Female Header: 1x16-Pin, 0.100" (2.54 mm):
+https://www.pololu.com/product/1031
+
+Female Header: 1x4-Pin, 0.100" (2.54 mm)
+https://www.pololu.com/product/1014
+
+Longruner JY-MCU Arduino Bluetooth Wireless Serial Port Module LK35:
+https://www.amazon.com/Phantom-YoYo-Arduino-Bluetooth-Wireless/dp/B009DZQ4MG
+
+JSA4-1-G0  DIP / SIP Switch, 1 Circuits, SPST, Through Hole, JS Series, 100 V
+http://si.farnell.com/erg-components/jsa4-1-g0/switch-jumper-1-way-spst-slide/dp/3289758
+
+Female Header: 1x6-Pin,0.100" (2.54 mm)
+https://www.pololu.com/product/1016
