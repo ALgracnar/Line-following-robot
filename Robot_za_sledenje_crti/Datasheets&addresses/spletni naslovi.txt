@@ -20,8 +20,23 @@ https://www.pololu.com/product/1014
 Longruner JY-MCU Arduino Bluetooth Wireless Serial Port Module LK35:
 https://www.amazon.com/Phantom-YoYo-Arduino-Bluetooth-Wireless/dp/B009DZQ4MG
 
+ball :
+https://www.pololu.com/product/950
+
+kolo:
+https://www.pololu.com/product/1087
+
+drzalo EM
+https://www.pololu.com/product/989/specs
+
+
 JSA4-1-G0  DIP / SIP Switch, 1 Circuits, SPST, Through Hole, JS Series, 100 V
 http://si.farnell.com/erg-components/jsa4-1-g0/switch-jumper-1-way-spst-slide/dp/3289758
 
 Female Header: 1x6-Pin,0.100" (2.54 mm)
 https://www.pololu.com/product/1016
+
+batery holder:
+http://www.ebay.co.uk/itm/1x-9V-Volt-pp3-Battery-Clip-Holder-Box-clip-connector-Case-1st-class-post-/371397957719
+
+em:https://www.pololu.com/product/3049
